@@ -1,0 +1,3 @@
+# Cleaned corpus and encoded datasets.
+*.txt
+*.npy

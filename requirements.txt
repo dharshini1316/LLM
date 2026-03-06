@@ -1,0 +1,8 @@
+# Python 3.10+ required
+torch>=2.0,<3
+numpy>=1.24,<2
+sentencepiece>=0.1.99
+tqdm>=4.65
+regex>=2023.0
+streamlit>=1.28
+rich>=13.0
