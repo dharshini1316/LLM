@@ -1,7 +1,7 @@
 cybersec-llm
 ============
 
-From-scratch, GPT-style language model for cybersecurity text, plus a Streamlit “SOC Copilot” demo.
+From-scratch, GPT-style language model for cybersecurity text, plus a Streamlit “SOC Copilot” demo
 
 This project is intentionally small so you can train on a CPU or a modest GPU without external data or API keys.
 
